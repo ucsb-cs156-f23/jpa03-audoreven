@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-audoreven
 
 Running at: https://jpa03-audoreven.dokku-12.cs.ucsb.edu/
 
